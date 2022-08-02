@@ -22,7 +22,7 @@ I am a self-driven frontend developer, constantly expanding my knowledge to mast
 </div>
 
 ### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldigia&hide=java,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldigia&hide=java,html,css&layout=compact)](https://github.com/Eldigia?tab=repositories)
 
 ### You may also find me on:
 <div>
