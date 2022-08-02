@@ -1,4 +1,4 @@
-# Hello, I'm Dominika <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Dominika <img src="https://raw.githubusercontent.com/Eldigia/Eldigia/master/wave.gif" width="30px">
 
 I am a self-driven frontend developer, constantly expanding my knowledge to master React & TypeScript. 
 
