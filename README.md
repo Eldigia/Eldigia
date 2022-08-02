@@ -5,20 +5,20 @@ I am a self-driven frontend developer, constantly expanding my knowledge to mast
 
 ### Tech Stack
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" alt="Create React App logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="Auth0 logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" alt="Lodash logo" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual studio logo" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" alt="Create React App logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" wwidth="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="Auth0 logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" alt="Lodash logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual studio logo" width="40" height="40" />
 </div>
 
 ### GitHub Stats
