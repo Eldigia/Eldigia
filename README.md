@@ -6,7 +6,7 @@ I'm a frontend developer building mobile and web applications using TypeScript, 
 
 ## Tech Stack
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript logo" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo logo" width="40" height="40" />
